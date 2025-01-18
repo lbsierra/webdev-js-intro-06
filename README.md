@@ -37,12 +37,12 @@ To view the project locally, you can either open the project files in your code 
 
 #### Part 2
 
-- [ ] Navigate to the Assignment Page
-- [ ] Read the assignment overview and output section.
-- [ ] In `assignment.js`:
-    - [ ] Finish the logic inside `evenOrOdd()`.
-    - [ ] Finish the logic inside `sumTheNumbers()`.
-    - [ ] Finish the logic inside `createNumberArray()`.
+- [ x ] Navigate to the Assignment Page
+- [ x ] Read the assignment overview and output section.
+- [ x ] In `assignment.js`:
+    - [ x ] Finish the logic inside `evenOrOdd()`.
+    - [ x ] Finish the logic inside `sumTheNumbers()`.
+    - [ x ] Finish the logic inside `createNumberArray()`.
 
 
 ### Tips
